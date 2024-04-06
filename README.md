@@ -5,10 +5,9 @@
 <div>
 This repo is study Rust for me. </br>
 Not Production Level. </br></br>
-</div> </br>
-
+</div>
 <li>This repo written on Mac arm</li>
-<li>If run project</li>
+<li>If run project</li></br>
 
 ```shell
 # cd ~~~/(project_name)
